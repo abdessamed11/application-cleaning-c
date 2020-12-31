@@ -1,0 +1,14 @@
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\bin\Release\pc cleaner.exe.config
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\bin\Release\pc cleaner.exe
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\bin\Release\pc cleaner.pdb
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\obj\Release\MainWindow.g.cs
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\obj\Release\App.g.cs
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\obj\Release\pc cleaner_MarkupCompile.cache
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\obj\Release\pc cleaner_MarkupCompile.lref
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\obj\Release\MainWindow.baml
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\obj\Release\pc cleaner.g.resources
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\obj\Release\pc_cleaner.Properties.Resources.resources
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\obj\Release\pc cleaner.csproj.GenerateResource.cache
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\obj\Release\pc cleaner.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\obj\Release\pc cleaner.exe
+C:\Users\Administrateur\OneDrive\Bureau\pc cleaner\obj\Release\pc cleaner.pdb

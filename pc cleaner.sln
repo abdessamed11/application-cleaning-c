@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pc cleaner", "pc cleaner.csproj", "{A83E100E-FD1A-48B3-9A7E-4515E629E6D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAJ", "..\MAJ\MAJ.csproj", "{06F2BBA0-8EC7-434A-A6C6-3E9D4F6C5A07}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup cleaner", "..\Setup cleaner\Setup cleaner.vdproj", "{7F93D028-F350-4C26-92DD-B0D3F9008410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A83E100E-FD1A-48B3-9A7E-4515E629E6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83E100E-FD1A-48B3-9A7E-4515E629E6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83E100E-FD1A-48B3-9A7E-4515E629E6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83E100E-FD1A-48B3-9A7E-4515E629E6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F2BBA0-8EC7-434A-A6C6-3E9D4F6C5A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F2BBA0-8EC7-434A-A6C6-3E9D4F6C5A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F2BBA0-8EC7-434A-A6C6-3E9D4F6C5A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F2BBA0-8EC7-434A-A6C6-3E9D4F6C5A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F93D028-F350-4C26-92DD-B0D3F9008410}.Debug|Any CPU.ActiveCfg = Debug
+		{7F93D028-F350-4C26-92DD-B0D3F9008410}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7773F875-95B3-4E0A-AEF2-AAEDD9695EE1}
+	EndGlobalSection
+EndGlobal
