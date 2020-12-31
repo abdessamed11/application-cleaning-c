@@ -1,0 +1,41 @@
+﻿<Window x:Class="MAJ.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MAJ"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF12B5A1" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Rectangle Fill="#FF95E0EA" HorizontalAlignment="Left" Height="420" VerticalAlignment="Top" Width="205" Cursor="Arrow"/>
+        <Rectangle Fill="#FFB3ECF3" HorizontalAlignment="Left" Height="85" VerticalAlignment="Top" Width="795" Margin="0,0,-1.667,0" Cursor="Arrow"/>
+        <TextBlock HorizontalAlignment="Left" Margin="55,20,0,0" TextWrapping="Wrap" Text="Pc Cleaner" VerticalAlignment="Top" FontSize="24" FontFamily="Segoe UI Black" Cursor="Arrow"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="115,45,0,0" TextWrapping="Wrap" Text="Massif" VerticalAlignment="Top" Width="75" FontSize="20" FontFamily="Sitka Display" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF1A6D70" SelectionBrush="#FFADC5D8" AllowDrop="False" Cursor="Arrow"/>
+        <Image Margin="5,20,748.333,360.667" Source="sweeping1.png" Stretch="Fill" Cursor="Arrow"/>
+        <Label x:Name="lbl_net" Content="Espace à nettoyer :&#xA;" HorizontalAlignment="Left" Margin="215,48,0,0" VerticalAlignment="Top" Height="27" Cursor="Arrow" Visibility="Visible"/>
+        <Label x:Name="lbl_net_compt" Content="0&#xA;" HorizontalAlignment="Left" Margin="320,48,0,0" VerticalAlignment="Top" Height="27" Width="80" Cursor="Arrow" Visibility="Visible"/>
+        <Label Content="Derniére analyse :&#xA;" HorizontalAlignment="Left" Margin="562,13,0,0" VerticalAlignment="Top" Height="27" Cursor="Arrow"/>
+        <Label x:Name="lbl_time_anal" Content="" HorizontalAlignment="Left" Margin="665,14,0,0" VerticalAlignment="Top" Height="27" Cursor="Arrow"/>
+        <Label Content="Derniére MAJ :&#xA;" HorizontalAlignment="Left" Margin="562,40,0,0" VerticalAlignment="Top" Height="27" Cursor="Arrow"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="665,43,0,0" VerticalAlignment="Top" Height="27" Cursor="Arrow"/>
+        <Label x:Name="lbl_prog" Content="" HorizontalAlignment="Left" Margin="447,46,0,0" VerticalAlignment="Top"/>
+        <Rectangle Fill="#FF95E0EA" HorizontalAlignment="Left" Height="420" VerticalAlignment="Top" Width="205" Cursor="Arrow" Panel.ZIndex="-1"/>
+        <Image Margin="20,110,748.332,285.667" Source="computer1.png" Stretch="Fill" Width="25" Height="25" Cursor="Arrow"/>
+        <Button Content="WEB" HorizontalAlignment="Left" Margin="65,350,0,0" VerticalAlignment="Top" Width="70" Height="38" Background="#FF66DED3" BorderBrush="{x:Null}" FontFamily="Segoe UI Black" Cursor="Arrow"/>
+        <Label Content="VERSION 1.0.0" HorizontalAlignment="Left" Margin="7,397,0,0" VerticalAlignment="Top" FontSize="6" Cursor="Arrow"/>
+        <Image Margin="19,171,0,224.667" Source="gear1.png" Stretch="Fill" Width="25" Height="25" HorizontalAlignment="Left" Cursor="Arrow"/>
+        <Image Margin="19,233,749.332,162.667" Source="history1.png" Stretch="Fill" Width="25" Height="25" Cursor="Arrow"/>
+        <Image Margin="18,291,750.332,104.667" Source="update-arrows1.png" Stretch="Fill" Width="25" Height="25" Cursor="Arrow"/>
+        <Button x:Name="lbl_maj" Content="Mise à jour" HorizontalAlignment="Left" Margin="305,180,0,0" VerticalAlignment="Top" Width="430" Height="100" Background="#FF66DED3" FontSize="36" Click="Button_Click"/>
+        <ProgressBar x:Name="progg" HorizontalAlignment="Left" Height="10" Margin="325,320,0,0" VerticalAlignment="Top" Width="355" Background="White" BorderBrush="#FF0A0505" Visibility="Hidden"/>
+        <Label x:Name="lbl_progg" Content="Label" HorizontalAlignment="Left" Margin="678,312,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Label x:Name="lbl_etat" Content="mise à jour " HorizontalAlignment="Left" Margin="230,110,0,0" VerticalAlignment="Top" Width="445"/>
+
+    </Grid>
+</Window>

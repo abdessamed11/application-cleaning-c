@@ -1,0 +1,15 @@
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\obj\Release\MAJ.csprojAssemblyReference.cache
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\obj\Release\MainWindow.g.cs
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\obj\Release\App.g.cs
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\obj\Release\MAJ_MarkupCompile.cache
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\obj\Release\MAJ_MarkupCompile.lref
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\bin\Release\MAJ.exe.config
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\bin\Release\MAJ.exe
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\bin\Release\MAJ.pdb
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\obj\Release\MainWindow.baml
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\obj\Release\MAJ.g.resources
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\obj\Release\MAJ.Properties.Resources.resources
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\obj\Release\MAJ.csproj.GenerateResource.cache
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\obj\Release\MAJ.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\obj\Release\MAJ.exe
+C:\Users\Administrateur\OneDrive\Bureau\MAJ\obj\Release\MAJ.pdb
